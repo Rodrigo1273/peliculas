@@ -1,0 +1,5 @@
+[
+    { "id": 1, "title": "Inception", "director": "Christopher Nolan", "genre": "Sci-Fi", "rating": 9, "year": 2010 },
+    { "id": 2, "title": "The Godfather", "director": "Francis Ford Coppola", "genre": "Crime", "rating": 9.2, "year": 1972 }
+  ]
+  
